@@ -1,0 +1,30 @@
+{
+  "name": "win-find-jscript-compiler",
+  "version": "0.0.1",
+  "description": "Find .NET's jsc.exe on Windows",
+  "license": "MIT",
+  "author": "Vincent Weevers",
+  "scripts": {
+    "test": "standard && node test"
+  },
+  "dependencies": {
+    "glob": "~7.1.2",
+    "semver-compare": "~1.0.0"
+  },
+  "devDependencies": {
+    "standard": "~11.0.1",
+    "tape": "~4.9.0"
+  },
+  "keywords": [
+    "dotnet",
+    "jsc",
+    "jscript",
+    "windows"
+  ],
+  "engines": {
+    "node": ">=6"
+  },
+  "repository": "vweevers/win-find-jscript-compiler",
+  "bugs": "https://github.com/vweevers/win-find-jscript-compiler/issues",
+  "homepage": "https://github.com/vweevers/win-find-jscript-compiler"
+}
