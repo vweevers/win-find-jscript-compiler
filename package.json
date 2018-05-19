@@ -1,6 +1,6 @@
 {
   "name": "win-find-jscript-compiler",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Find .NET's jsc.exe on Windows",
   "license": "MIT",
   "author": "Vincent Weevers",
